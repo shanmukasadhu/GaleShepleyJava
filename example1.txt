@@ -1,0 +1,14 @@
+Tom, Bill, Rob, Dan, Julian, Devin, Chris, Nick, Steve, Mike
+Pats, Bills
+Tom: Pats, Bills
+Bill: Bills, Pats
+Rob: Pats, Bills
+Dan: Bills, Pats
+Julian: Pats, Bills
+Devin: Bills, Pats
+Chris: Pats, Bills
+Nick: Bills, Pats
+Steve: Pats, Bills
+Mike: Bills, Pats
+Pats: Tom, Bill, Rob, Dan, Julian, Devin, Chris, Nick, Steve, Mike
+Bills: Julian, Devin, Dan, Rob, Bill, Tom, Chris, Nick, Steve, Mike
